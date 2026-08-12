@@ -7,8 +7,7 @@ Este projeto faz parte da 2ª aula prática, onde aprendemos sobre versionamento
 
 ## 📦 Tecnologias Utilizadas
 
-- [<img src="https://skillicons.dev/icons?i=html" height="30" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [<img src="https://skillicons.dev/icons?i=css" height="30" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [<img src="https://skillicons.dev/icons?i=html" height="30" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [<img src="https://skillicons.dev/icons?i=css" height="30" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Instalação
 

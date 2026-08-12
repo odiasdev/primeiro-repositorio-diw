@@ -3,7 +3,7 @@
 
 ## 🔍 Descrição
 
-Este projeto faz parte da 2ª aula prática, onde aprendemos sobre versionamento usando **git** e **github**.
+Projeto da 2ª aula prática de Git/GitHub na disciplina de Desenvolvimento de Interfaces Web (PUC Minas). O repositório demonstra o uso de versionamento com git e cria uma interface web simples utilizando HTML e CSS.**github**.
 
 ## 📦 Tecnologias Utilizadas
 

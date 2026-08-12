@@ -5,7 +5,7 @@ Um site simples para consultar o **clima atual** de qualquer cidade do mundo.
 
 ## 🔍 Descrição
 
-Este projeto   
+Este projeto faz parte da 2ª aula prática, onde aprendemos sobre versionamento usando github
 
 ## 📦 Tecnologias Utilizadas
 
@@ -29,7 +29,7 @@ Basta abrir o arquivo `index.html` no navegador.
 ```
 primeiro-repositorio-diw/
 ├── index.html
-├── styles.css
+├── style.css
 └── README.md
 ```
 

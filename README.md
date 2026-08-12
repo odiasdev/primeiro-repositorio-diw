@@ -1,11 +1,9 @@
 # 🖥️ Primeiro Repositório DIW
 1° SEMESTRE | ENG. SOFTWARE PUC MINAS - (DESENVOLVIMENTO DE INTERFACES WEB)
 
-Um site simples para consultar o **clima atual** de qualquer cidade do mundo.
-
 ## 🔍 Descrição
 
-Este projeto faz parte da 2ª aula prática, onde aprendemos sobre versionamento usando github
+Este projeto faz parte da 2ª aula prática, onde aprendemos sobre versionamento usando **git** e **github**.
 
 ## 📦 Tecnologias Utilizadas
 

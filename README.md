@@ -3,7 +3,7 @@
 
 ## 🔍 Descrição
 
-Projeto da 2ª aula prática de Git/GitHub na disciplina de Desenvolvimento de Interfaces Web (PUC Minas). O repositório demonstra o uso de versionamento com git e cria uma interface web simples utilizando HTML e CSS.**github**.
+Projeto da 2ª aula prática de Git/GitHub na disciplina de Desenvolvimento de Interfaces Web (PUC Minas). O repositório demonstra o uso de versionamento com git e cria uma interface web simples de uma receita de Pão de Queijo utilizando HTML e CSS.
 
 ## 📦 Tecnologias Utilizadas
 
